@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.dbt/
+target/
+logs/
+data_lake/
